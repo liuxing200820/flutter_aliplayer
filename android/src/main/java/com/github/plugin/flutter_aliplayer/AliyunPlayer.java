@@ -48,6 +48,8 @@ public final class AliyunPlayer {
 
     public void initialized() {
         this.isInitialized = true;
+        // 解决只有声音没有图像的问题
+        this.textureEntry.surfaceTexture().setDefaultBufferSize(this.mAliPlayer.getVideoWidth(), this.mAliPlayer.getVideoHeight());
     }
 
     public AliyunPlayer(Context context, EventChannel eventChannel, TextureRegistry.SurfaceTextureEntry textureEntry,
