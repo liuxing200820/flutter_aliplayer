@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6818046-5eda-4fb0-b47c-d5f6660b33e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_for_Android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/example_lib_main_dart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/AliQueuingEventSink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/AliyunPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/FlutterAliplayerPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPCompletionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPErrorListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPInfoListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPLoadingStatusListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPPreparedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPRenderingStartListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPSeekCompleteListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPSeiDataListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPSnapShotListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPStateChangedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPSubtitleDisplayListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPTrackChangedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPVerifyStsCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPVideoRenderedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnAVPVideoSizeChangedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/listener/OnOrientationEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/github/plugin/flutter_aliplayer/util/SourceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/java/com/github/plugin/flutter_aliplayer_example/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_aliplayer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FlutterAliplayerPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FlutterAliplayerPlugin.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/flutter_aliplayer.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_aliplayer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ali_player.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ali_player_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ali_player_interface.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ali_player_interface.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/ali_player_value.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/flutter_aliplayer_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="9YEDU18C07020876" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fIsho9tvIbXv47GyaQID8jlo5S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/test" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example/test" />
+      <recent name="$PROJECT_DIR$/example/lib" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6818046-5eda-4fb0-b47c-d5f6660b33e8" name="Default Changelist" comment="" />
+      <created>1595917062416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595917062416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1233" height="145" key="GridCell.Tab.0.bottom" timestamp="1595919039050">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="145" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.17.1920.1080@67.27.1299.741" timestamp="1595919039050" />
+    <state width="1233" height="145" key="GridCell.Tab.0.center" timestamp="1595919039050">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="145" key="GridCell.Tab.0.center/67.27.1299.741/1366.17.1920.1080@67.27.1299.741" timestamp="1595919039050" />
+    <state width="1233" height="145" key="GridCell.Tab.0.left" timestamp="1595919039050">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="145" key="GridCell.Tab.0.left/67.27.1299.741/1366.17.1920.1080@67.27.1299.741" timestamp="1595919039050" />
+    <state width="1233" height="145" key="GridCell.Tab.0.right" timestamp="1595919039050">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="145" key="GridCell.Tab.0.right/67.27.1299.741/1366.17.1920.1080@67.27.1299.741" timestamp="1595919039050" />
+    <state x="67" y="27" width="969" height="782" key="find.popup" timestamp="1595918328574">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="969" height="782" key="find.popup/67.27.1299.741/1366.17.1920.1080@67.27.1299.741" timestamp="1595918328574" />
+  </component>
+</project>
